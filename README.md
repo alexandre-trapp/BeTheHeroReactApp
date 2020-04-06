@@ -1,2 +1,2 @@
 # BeTheHeroReactApp
-App web e mobile para doações a ongs de casos diversos, em ReactJS e ReactNative
+Web and mobile app for donations to various cases, in NodeJS, ReactJS and ReactNative
